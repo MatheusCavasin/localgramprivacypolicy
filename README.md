@@ -5,9 +5,9 @@
 </head>
 <body>
 <h1>Privacy Policy</h1>
-<p>localgram</p>
+<h2>localgram</h2>
 
-<pMatheus Cavasin has built this app.</p>
+<p>Matheus Cavasin has built this app.</p>
 
 <p>If you choose to use localgram Service, then you agree to the collection and use of information in
     relation with this policy. The Personal Information that I collect are used for providing and
