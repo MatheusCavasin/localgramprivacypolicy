@@ -40,6 +40,6 @@
 
 <h2>Conclusion</h2><br>
 <p>
-Your movies is safe in this app, enjoy!</p>
+Your memories are safe in this app, enjoy!</p>
 </body>
 </html>
